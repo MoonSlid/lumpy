@@ -213,14 +213,14 @@ section.sec3 {
     border: .2rem solid rgba(66, 12, 12, 0.945);
 }
 .sleepy h5 {
-    font-family: TT Rounds Neue Trial Extra Bold;
+    font-family: slackey;
     font-size: 105px;
     margin-bottom: 0;  
     padding-top: 2rem; 
     text-align: center;
     color: rgb(97, 56, 136);    
     text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.397);
-    -webkit-text-stroke: 2px rgb(7, 7, 7);
+    -webkit-text-stroke: 1px rgb(7, 7, 7);
 }
 section .dream {
     position: relative;
@@ -300,13 +300,13 @@ section.sec4 {
     gap: 2rem;
     padding-left: 40px;  
     h5 {
-        font-family: TT Rounds Neue Trial Extra Bold; 
+        font-family: slackey; 
         font-size: 105px;
         padding-left: 20%;
         text-align: center;
         color: rgb(97, 56, 136);    
         text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.397);
-        -webkit-text-stroke: 2px rgb(7, 7, 7);
+        -webkit-text-stroke: 1px rgb(7, 7, 7);
     }
     .content {
         flex: 1 1 42rem;  
@@ -315,7 +315,7 @@ section.sec4 {
             color: var(--blue);
         }
         h3 {
-            font-family: SuperFriday;
+            font-family: slackey;
             font-size: 4rem;
             color: var(--blue);
             text-shadow: 5px 5px 2px rgba(0, 0, 0, 0.397);
