@@ -71,6 +71,7 @@ body {
     border-radius: 30px;
     transition: 0.3s;
     z-index: 300;
+    float: right;
 }
 
 .btn1:hover{
