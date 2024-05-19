@@ -352,7 +352,7 @@ section.sec4 {
             border-radius: 1rem;
             background: var(--bg-color);
             border: 0.4rem solid var(--black); 
-            transition: .2s; 
+            transition: .5s; 
              
 
             &:hover {
