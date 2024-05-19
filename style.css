@@ -64,7 +64,6 @@ body {
 .btn1{
     display: flex;
     align-self: right;
-    justify-content: flex-end;
     text-decoration: none;
     padding: 14px 40px;
     color: #fff;
