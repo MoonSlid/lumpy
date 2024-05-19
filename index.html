@@ -20,9 +20,8 @@
             <h5  class="heading">LUMPY &nbsp;PRINCESS</h5>
         
                 <div class="floater">   
-                    <img src="images/Lumpy.png" alt="Lumpy Princess" class="imgMain">
-                <audio id="myAudio" controls><source src="audio/beep.mp3" type="audio/mpeg"></audio><br>
-                <button onclick="enableAutoplay()" type="button">Say Wha</button>    
+                    <img id="img" src="images/Lumpy.png" alt="Lumpy Princess" class="imgMain">
+                    <audio id="audio" src="audio/beep.mp3"></audio>   
                 </div>
 
                 <div class="flying"> 
@@ -126,12 +125,22 @@
 </section>
         <!---- JavaScript section starts ------->
 <script>
-    var x = document.getElementById("myAudio");
 
-    Function enableAutoplay() {
-        x.autoplay = true;
-        x.load();
+    var audio = document.getElementById("audio");
+    var img = document.getElementById("img");
+
+    function play() {
+        audio.play();
     }
+
+    function stop() {
+        audio.pause();
+    }
+
+    img.addEventListener('click', play);
+    img.addEventListener('mouseover', play);
+    img.addEventListener('mouseout', stop);
+
 </script>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
