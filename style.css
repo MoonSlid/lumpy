@@ -9,8 +9,8 @@
     font-family: 'Poppins', sans-serif;
 } 
 @font-face {
-    font-family: TT Rounds Neue Trial Extra Bold;
-    src: url(fonts/TT\ Rounds\ Neue\ Trial\ ExtraBold.ttf);
+    font-family: slackey;
+    src: url(fonts/Slackey-Regular.ttf);
     font-style: normal;
     font-weight: 100;
 } 
@@ -58,7 +58,7 @@ section.sec2 {
     border: .2rem solid rgba(66, 12, 12, 0.945);
 }
 .popey h5 {
-    font-family: TT Rounds Neue Trial Extra Bold;
+    font-family: slackey;
     font-size: 105px;
     margin-bottom: 0;  
     padding-top: 2rem; 
