@@ -21,7 +21,8 @@
         
                 <div class="floater">   
                     <img src="images/Lumpy.png" alt="Lumpy Princess" class="imgMain">
-                    <audio id="beep" preload="auto"><source src="audio/LAudio.mp3" type="audio/mpeg"></audio>
+                
+                    <audio controls preload="auto"><source src="audio/LAudio.mp3" controls></source></audio>
                 </div>
 
                 <div class="flying"> 
@@ -125,8 +126,8 @@
 </section>
         <!---- JavaScript section starts ------->
 <script>
-    var beepOne= $("#beep")[0];
-    $(".floater")
+    var beepOne = $("#beep-one")[0];
+    $(".floater-one")
     .mouseenter(function() {
         beepOne.play();
     });
