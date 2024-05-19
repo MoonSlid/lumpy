@@ -83,6 +83,7 @@ section.sec2 {
 .floater img:hover {
     animation: shake 0.15s linear infinite;
     cursor: pointer;
+    audio: autoplay;
 } 
 @keyframes floatImage {
     0% {
