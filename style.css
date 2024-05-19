@@ -421,8 +421,8 @@ section.footer {
 /************************ Media ****************************/
 @media all and (max-width: 1024px) {
 .popey h5 {
-    font-size: 90px;
-    margin-bottom: 2rem;  
+    font-size: 80px;
+    margin-bottom: 0rem;  
     padding-top: 2rem; 
 }
 .floater .imgMain {
