@@ -101,7 +101,7 @@ section.sec2 {
 }
 .floater audio {
     margin-left: 40%;
-    display: none;  
+/*    display: none;  */  
   margin-top: -50%;
   outline: 5px solid red;
 }
