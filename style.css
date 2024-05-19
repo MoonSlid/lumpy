@@ -50,14 +50,16 @@ body {
     background-image: linear-gradient(45deg, #b38b6d, #7b403b);
     font-size: 14px;
     border-radius: 30px;
+    border: 0.4rem solid var(--black);
     transition: 0.5s;
     z-index: 300;
 }
 
 .btn:hover{
-    box-shadow: 0 0 1rem var(--black);
+    box-shadow: 0 0 0.5rem var(--black);
     color: var(--blue);
     font-weight: bold;
+    border: var(--border);
 }
 /********************* LANDING PAGE ******************/
 section.sec2 {
