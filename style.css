@@ -480,7 +480,11 @@ section.sec4 .flying2 {
     top: -300px; 
 }   
 }
-
+@media all and (max-width: 1200px) {
+.btn1{
+    background-image: #1f242d;
+}
+}
 
 @media all and (max-width: 1024px) {
 .popey h5 {
