@@ -575,7 +575,7 @@ section .flying {
     height: 100vh;  
 }
 .sleepy h5 {
-    font-size: 90px;    
+    font-size: 80px;    
 }
 section .dream {
     left: 5%;
@@ -612,7 +612,7 @@ section .flying1 img {
 } 
 .review {  
     h5 {
-        font-size: 90px; 
+        font-size: 80px; 
         padding-left: 10%;  
     }
     .content { 
@@ -695,7 +695,7 @@ section .flying2 img {
     height: 100vh;  
 }
 .sleepy h5 {
-    font-size: 75px;    
+    font-size: 70px;    
 } 
 section .dream {
     top: 17%; 
