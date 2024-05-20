@@ -461,6 +461,17 @@ section.footer {
     color: rgba(70, 5, 131, 0.377);
 }
 /************************ Media ****************************/
+@media all and (max-width: 1440px) {
+.buybtn {
+    padding-left: 70%;
+}
+section .flying1 img {
+    width: 470px;
+}
+    
+}
+
+
 @media all and (max-width: 1024px) {
 .popey h5 {
     font-size: 80px;
@@ -468,7 +479,7 @@ section.footer {
     padding-top: 2rem; 
 }
 .buybtn {
-    padding-left:70%;
+    padding-left: 60%;
     padding-right: 20px;
 }    
 .floater .imgMain {
