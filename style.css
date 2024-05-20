@@ -65,6 +65,7 @@ body {
     position: relative;
     padding-left: 85%;
     padding-right: 20px;
+    z-index: 500;
 }
 
 .btn1{
@@ -494,11 +495,11 @@ section .dream img {
     padding-left: 200px; 
 }    
 #S6 {  
-    left: 600px;
+    left: 500px;
     top: -150px; 
 }
 #S7 {    
-    left: 1050px;
+    left: 850px;
     top: -400px;
 }   
 #S8 {   
@@ -506,8 +507,8 @@ section .dream img {
     top: -350px;
 } 
 #S9 {   
-    left: 1100px;
-    top: -800px;
+    left: 1050px;
+    top: -700px;
 }
     
 section .flying1 img {
@@ -518,6 +519,9 @@ section .flying1 img {
     h5 { 
         font-size: 90px;
         padding-left: 10%;
+}
+#S11 {    
+    left: 780px; 
 }
 }
 
