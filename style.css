@@ -490,6 +490,9 @@ section.sec4 .flying2 {
 section .dream img {
     width: 650px;
 }
+#S5 {
+    padding-left: 200px; 
+}    
 #S6 {  
     left: 600px;
     top: -350px; 
