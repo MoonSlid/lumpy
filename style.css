@@ -467,6 +467,10 @@ section.footer {
     margin-bottom: 0rem;  
     padding-top: 2rem; 
 }
+.buybtn {
+    padding-left:60%;
+    padding-right: 20px;
+}    
 .floater .imgMain {
     padding-top: 20%;
 }
