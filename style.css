@@ -594,12 +594,17 @@ section .flying1 {
 section .flying1 img {
     width: 300px;
 }
+#S6 {
+    left: 100px;
+    top: -500px;
+
 #S7 {    
     left: 900px;
     top: -500px;
 }   
 #S8 {   
-    left: 450px;
+    left: 400px;
+    top: -450px;
 } 
 #S9 {   
     left: 1100px;
@@ -632,7 +637,7 @@ section .flying2 img {
 }
 #S11 {    
     left: 50px;
-    top: 720px;  
+    top: 520px;  
 }   
 .foot .ft-text p {
     font-size: 1.6rem;
