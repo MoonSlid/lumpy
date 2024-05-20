@@ -463,7 +463,7 @@ section.footer {
 /************************ Media ****************************/
 @media all and (max-width: 1440px) {
 .buybtn {
-    padding-left: 70%;
+    padding-left: 75%;
 }
 section .flying1 img {
     width: 470px;
