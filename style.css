@@ -482,7 +482,7 @@ section.sec4 .flying2 {
 }
 @media all and (max-width: 1200px) {
 .btn1{
-    background-image: #1f242d;
+    color: rgba(97, 56, 136);
 }
 }
 
