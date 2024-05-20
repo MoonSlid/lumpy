@@ -67,8 +67,7 @@ body {
 }
 
 .btn1{
-    display: flex;
-    align-self: right;
+    display: inline-block;
     text-decoration: none;
     padding: 14px 40px;
     color: #fff;
@@ -85,6 +84,7 @@ body {
     color: var(--blue);
     font-weight: bold;
     border: 0.1rem solid rgba(97, 56, 136);
+    cursor: pointer;
 }
 
 /********************* LANDING PAGE ******************/
