@@ -61,6 +61,11 @@ body {
     border: 0.1rem solid rgba(97, 56, 136);
 }
 
+.buybtn {
+    position: relative;
+    padding-left: 85%;
+}
+
 .btn1{
     display: flex;
     align-self: right;
@@ -71,11 +76,12 @@ body {
     font-size: 20px;
     border-radius: 30px;
     transition: 0.3s;
-    z-index: 300;
+    box-shadow: 4px 6px 2px rgba(0, 0, 0, 0.397);
+    z-index: 500;
 }
 
 .btn1:hover{
-    box-shadow: 0 0 0.5rem var(--black);
+    box-shadow: 8px 10px 2px rgba(0, 0, 0, 0.397);
     color: var(--blue);
     font-weight: bold;
     border: 0.1rem solid rgba(97, 56, 136);
