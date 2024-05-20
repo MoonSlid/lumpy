@@ -523,6 +523,9 @@ section .flying1 img {
 #S11 {    
     left: 780px; 
 }
+.foot .ft-text p {
+    bottom: 75px;
+}
 }
 
 @media all and (max-width: 1024px) {
