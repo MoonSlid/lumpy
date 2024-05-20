@@ -480,9 +480,24 @@ section.sec4 .flying2 {
     top: -300px; 
 }   
 }
-@media all and (max-width: 1200px) {
-.btn1{
-    color: rgba(97, 56, 136);
+@media all and (max-width: 1221px) {
+.popey h5 {
+    font-size: 95px;
+}  
+.sleepy h5 {
+    font-size: 90px;
+}   
+section .dream img {
+    width: 650px;
+}
+section .flying1 img {
+    width: 390px;
+}
+.review {
+    padding-left: 20px;  
+    h5 { 
+        font-size: 90px;
+        padding-left: 10%;
 }
 }
 
