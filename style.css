@@ -666,7 +666,11 @@ section.sec4 .flying2 {
 #S11 {    
     left: 100px;
     top: 480px;  
-}   
+}  
+.foot {
+    padding-top:30px;
+}
+    
 .foot .fin p {
     font-size: .7rem;  
     position: absolute;
