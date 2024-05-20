@@ -468,7 +468,14 @@ section.footer {
 section .flying1 img {
     width: 470px;
 }
-    
+#S7 {    
+    position: relative;
+    left: 1050px;
+    top: -650px;
+}
+#S9 {   
+    left: 1300px;
+}
 }
 
 
