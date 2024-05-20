@@ -870,7 +870,10 @@ section.sec4 .flying2 {
 #S11 {    
     left: 30px;
     top: 980px;  
-}          
+} 
+.foot {
+    margin-top: 150px;
+}
 .foot .ft-text p {
     font-size: 0.9rem;
     bottom: 90px;  
