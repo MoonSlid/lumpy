@@ -611,7 +611,7 @@ section .flying1 img {
     left: 900px;
     top: -200px;
 }   
-#S8 {   
+section .flying1 #S8 {   
     left: -200px;
     top: -400px;
 } 
@@ -700,6 +700,10 @@ section .flying2 img {
     height: 150px;    
     list-style-type: none;
 }
+.save h4 {
+    font-size: 1.6rem;
+}
+    
 .sleepy {
     height: 100vh;  
 }
@@ -815,6 +819,9 @@ section .flying img {
 section.sec3 {
     padding: 1rem;   
 }
+.save h4 {
+    font-size: 1rem;
+}    
 .sleepy {
     height: 90vh;  
     border: .1rem solid rgba(66, 12, 12, 0.945);  
