@@ -1023,6 +1023,9 @@ section .flying2 img {
 .popey h5 {
     line-height: 50px;
 }
+.buybtn {
+    padding-left: 40%;
+}    
 .floater .imgMain {
     padding-top: 30%;  
 }
