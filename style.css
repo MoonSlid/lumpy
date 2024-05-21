@@ -856,7 +856,7 @@ section.sec4 .flying2 {
 }}
 .foot {
     position: absolute;
-    padding-top: 300vh;
+    padding-top: 10vh;
 }
 }
 @media all and (max-width: 425px) {
