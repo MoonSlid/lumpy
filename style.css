@@ -852,7 +852,7 @@ section.sec4 .flying2 {
 }  
 .foot {
     position: absolute;
-    bottom: 600px;
+    padding-top: 300vh;
 }
 
 }
