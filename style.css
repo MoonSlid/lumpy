@@ -680,7 +680,8 @@ section .flying1 #S8 {
 }
 .services-box {
     padding-top: 5%;
-    padding-left: 7%;
+    padding-left: 0%;
+    padding-right: 10%;
 }
 .services-box video {
     height: 450px;
