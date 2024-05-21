@@ -842,7 +842,7 @@ section.sec4 .flying2 {
 @media all and (max-width: 747px) {
 #S8 {   
     position: relative;
-    left: 500px;
+    left: 450px;
 }
 .work {
     height: 100vh;
@@ -856,7 +856,7 @@ section.sec4 .flying2 {
 }}
 .foot {
     position: absolute;
-    padding-top: 10vh;
+    padding-top: 200vh;
 }
 }
 @media all and (max-width: 425px) {
