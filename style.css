@@ -748,10 +748,11 @@ section.sec4 .flying2 {
     left: 70%;
     top: -800px; 
 }
-#S11 {    
-    left: 100px;
+#S11 {  
+     position: relative;
+    left: 0px;
     top: 480px;  
-}  
+}     
 .foot {
     padding-top:130px;
     margin-top: 150px;
