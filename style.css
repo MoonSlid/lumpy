@@ -239,6 +239,15 @@ section .flying {
     border-radius: 20px;
     box-shadow: 10px 10px 10px rgba(15, 15, 15, 0.479);
 }
+.save h4 {
+    font-family: slackey;
+    font-size: 1.6rem;
+    position: absolute;
+    bottom: 10px;
+    padding-left: 20px;
+    color: rgba(0, 0, 0, 0.411);
+}
+
 /********************** DREAMING ************************/
 section.sec3 {
     padding: 2rem;   
@@ -603,7 +612,7 @@ section .flying1 img {
     top: -200px;
 }   
 #S8 {   
-    left: 200px;
+    left: 400px;
     top: -400px;
 } 
 #S9 {   
