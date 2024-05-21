@@ -518,6 +518,9 @@ section.footer {
 .buybtn {
     padding-left: 75%;
 }
+.work h5 {
+    font-size: 90px;
+}
 section .flying1 img {
     width: 470px;
 }
@@ -562,7 +565,9 @@ section .dream img {
     left: 1050px;
     top: -700px;
 }
-    
+.work h5 {
+    font-size: 80px;
+}
 section .flying1 img {
     width: 390px;
 }
@@ -662,6 +667,9 @@ section .flying1 #S8 {
     left: 1100px;
     top: -560px;
 } 
+.work h5 {
+    font-size: 70px;
+}
 .review {  
     h5 {
         font-size: 80px; 
