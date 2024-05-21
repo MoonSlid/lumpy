@@ -840,6 +840,10 @@ section.sec4 .flying2 {
 }
 }
 @media all and (max-width: 747px) {
+#S8 {   
+    position: relative;
+    left: 0px;
+}
 .work {
     height: 100vh;
 }   
