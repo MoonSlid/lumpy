@@ -713,8 +713,9 @@ section.sec4 .flying2 {
 section .flying2 img {
     width: 120px;
 }
-#S11 {    
-    left: -50px;
+#S11 { 
+    position: relative;
+    left: 200px;
     top: 520px;  
 }      
 .foot .ft-text p {
