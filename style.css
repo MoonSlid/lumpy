@@ -272,7 +272,7 @@ section.sec3 {
     text-align: center;
     color: rgb(97, 56, 136);    
     text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.397);
-    -webkit-text-stroke: 1px rgb(7, 7, 7);
+    -webkit-text-stroke: 0.5px rgb(7, 7, 7);
 }
 section .dream {
     position: relative;
@@ -401,7 +401,7 @@ section.sec4 {
         text-align: center;
         color: rgb(97, 56, 136);    
         text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.397);
-        -webkit-text-stroke: 1px rgb(7, 7, 7);
+        -webkit-text-stroke: 0.5px rgb(7, 7, 7);
     }
     .content {
         flex: 1 1 42rem;  
