@@ -779,6 +779,15 @@ section.sec2 {
     padding-top: .5rem; 
     line-height: 80px;
 }
+.buybtn {
+    position: relative;
+    padding-left: 65%;
+    padding-right: 10px;
+}
+.btn1{
+    padding: 14px 40px;
+    font-size: 15px;
+}
 .floater .imgMain {
     padding-top: 25%;  
 }
