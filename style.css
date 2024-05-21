@@ -839,6 +839,15 @@ section.sec4 .flying2 {
     color: rgba(70, 5, 131, 0.534);
 }
 }
+@media all and (max-width: 747px) {
+.services-box {
+    padding-top: 10%;
+}  
+.foot {
+    bottom: 100px;
+}
+
+}
 @media all and (max-width: 425px) {
 section.sec2 {
     padding: 1rem;   
