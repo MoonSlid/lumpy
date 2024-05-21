@@ -645,9 +645,9 @@ section .flying2 img {
     width: 120px;
 }
 #S11 {    
-    left: 50px;
+    left: -50px;
     top: 520px;  
-}   
+}      
 .foot .ft-text p {
     font-size: 1.6rem;
     position: absolute;
