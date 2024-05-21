@@ -855,8 +855,8 @@ section.sec4 .flying2 {
         font-size: 65px;  
 }}
 .foot {
-    position: absolute;
-  bottom: 1vh;
+    position: relative;
+
 }
 }
 @media all and (max-width: 425px) {
