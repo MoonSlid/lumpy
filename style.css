@@ -714,7 +714,7 @@ section .flying2 img {
     width: 120px;
 }
 #S11 { 
-    position: relative;
+    position: absolute;
     left: 200px;
     top: 520px;  
 }      
