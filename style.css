@@ -667,10 +667,10 @@ section .flying1 img {
     left: 900px;
     top: -200px;
 }   
-section .flying1 #S8 {   
-    left: -200px;
+#S8 {   
+    left: 300px;
     top: -400px;
-} 
+}    
 #S9 {   
     left: 1100px;
     top: -560px;
