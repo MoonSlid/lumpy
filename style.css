@@ -541,10 +541,23 @@ section .flying1 img {
 #S9 {   
     left: 1300px;
 }
+ 
 section.sec4 .flying2 {
-    left: -80%;
-    top: -300px; 
-}   
+    position: relative;
+    z-index: 50;
+    left: 0%;
+    top: -180px; 
+}
+#S11 {    
+    position: relative;
+    left: 980px;
+    top: 340px;  
+    animation-name: slideUp;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}       
 }
 @media all and (max-width: 1221px) {
 .popey h5 {
