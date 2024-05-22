@@ -800,13 +800,16 @@ section .flying1 img {
     top: -450px;
 }   
 #S8 {  
-    left: 350px;
+    left: 450px;
     top: -450px;
 } 
 #S9 {   
     left: 950px;
     top: -680px;
 } 
+.work {
+    height: 100vh;
+}
 .services-box {
     padding-top: 10%;
 }
