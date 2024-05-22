@@ -541,6 +541,10 @@ section .flying1 img {
 #S9 {   
     left: 1300px;
 }
+
+.review .content p{
+    padding: 1rem 2rem;
+}
 section.sec4 {
     padding: 2rem;     
 } 
