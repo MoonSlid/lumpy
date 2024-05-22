@@ -972,7 +972,7 @@ section.sec5 {
     padding: 1rem;
 }
 .work {
-    height: 90vh; 
+    height: 80vh; 
 }
 .work h5 {
     font-size: 50px;
@@ -1094,6 +1094,17 @@ section .flying1 img {
 section.sec4 {
     padding: 0; 
     height: 200vh;   
+}
+.work h5 {
+    font-size: 40px;
+}
+.services-box {
+    padding-top: 10%;
+    padding-right: 2%;
+}
+.services-box video {
+    height: 150px;
+    width: 250px;
 }
 .review {  
     h5 {
