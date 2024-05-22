@@ -618,6 +618,10 @@ section .flying1 img {
         font-size: 90px;
         padding-left: 10%;
 }
+section.sec4 .flying2 {
+    left: -10%;
+    top: -180px; 
+}
 #S11 {    
     left: 0px; 
 }
