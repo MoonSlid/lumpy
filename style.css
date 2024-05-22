@@ -561,9 +561,9 @@ section.sec4 {
         }
     }
     .box-container {
-        flex: 1 1 22rem;
+        flex: 1 1 32rem;
         .box {
-            flex: 1 1 10rem;
+            flex: 1 1 15rem;
             }
         }
     }
