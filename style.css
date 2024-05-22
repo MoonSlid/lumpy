@@ -676,12 +676,12 @@ section .flying1 img {
     top: -560px;
 } 
 .work h5 {
-    font-size: 60px;
+    font-size: 55px;
 }
 .services-box {
     padding-top: 5%;
     padding-left: 0%;
-    padding-right: 10%;
+    padding-right: 15%;
 }
 .services-box video {
     height: 450px;
