@@ -1064,6 +1064,7 @@ section.sec4 .flying2 {
 .sleepy h5 {
     font-size: 55px;    
     line-height: 1;
+    text-shadow: 4px 6px 2px rgba(0, 0, 0, 0.397);
 }  
 section .dream {
     left: -20%; 
@@ -1096,10 +1097,11 @@ section .flying1 img {
 }
 .work h5 {
     font-size: 40px;
+    text-shadow: 4px 6px 2px rgba(0, 0, 0, 0.397);
 }
 .services-box {
     padding-top: 15%;
-    padding-right: 5%;
+    padding-right: 10%;
 }
 .services-box video {
     height: 230px;
@@ -1159,6 +1161,7 @@ section .flying2 img {
     height: 100vh;    
 } 
 .popey h5 {
+     font-size: 40px; 
     line-height: 50px;
 }
 .buybtn {
