@@ -571,7 +571,11 @@ section.sec4 {
 section.sec4 .flying2 {
     left: -700px;
     top: -800px; 
-}       
+}  
+#S11 {    
+    position: relative;
+    left: 200px;
+    top: 340px;  
 }
 @media all and (max-width: 1221px) {
 .popey h5 {
