@@ -255,7 +255,8 @@ section.sec3 {
 .sleepy {
     width: 100%;
     height: 150vh;  
-    background-image: url(images/LB2.jpg);
+    background: rgba(0, 0, 0, 0.452) url(images/LB2.jpg);
+    background-blend-mode: darken;
     background-position: center;
     background-size: cover;
     padding: 0;    
@@ -270,8 +271,8 @@ section.sec3 {
     margin-bottom: 0;  
     padding-top: 2rem; 
     text-align: center;
-    color: rgb(97, 56, 136);    
-    text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.397);
+    color: rgb(168, 113, 219);    
+    text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.548);
     -webkit-text-stroke: 0.5px rgb(7, 7, 7);
 }
 section .dream {
@@ -349,7 +350,8 @@ section.sec5 {
 .work {
     width: 100%;
     height: 120vh;
-    background-image: url(images/LB3.jpg);
+    background: rgba(0, 0, 0, 0.452) url(images/LB3.jpg);
+    background-blend-mode: darken;
     background-position: center;
     background-size: cover;
     padding: 0;
@@ -364,8 +366,8 @@ section.sec5 {
     margin-bottom: 0;
     padding-top: 2rem;
     text-align: center;
-    color: rgb(97, 56, 136);
-    text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.397);
+    color: rgb(168, 113, 219);
+    text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.548);
     -webkit-text-stroke: 0.5px rgba(7, 7, 7);
 }
 .services-box {
