@@ -879,9 +879,10 @@ section.sec2 {
     border: .1rem solid rgba(66, 12, 12, 0.945);
 }  
 .popey h5 {
+    font-size: 60px; 
     margin-bottom: 1rem;  
     padding-top: .5rem; 
-    line-height: 80px;
+    line-height: 70px;
 }
 .buybtn {
     padding-left: 50%;
@@ -967,13 +968,31 @@ section .flying1 img {
     left: 850px;
     top: -600px;
 } 
+section.sec5 {
+    padding: 1rem;
+}
+.work {
+    height: 90vh; 
+}
+.work h5 {
+    font-size: 50px;
+}
+.services-box {
+    padding-top: 10%;
+    padding-left: 0%;
+    padding-right: 2%;
+}
+.services-box video {
+    height: 200px;
+    width: 300px;
+}     
 section.sec4 {
     padding: 0; 
     height: 230vh;   
 }
 .review { 
     h5 {
-        font-size: 48px;    
+        font-size: 45px;    
         text-shadow: 4px 6px 2px rgba(0, 0, 0, 0.397);
     }       
     .content {
