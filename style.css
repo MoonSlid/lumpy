@@ -541,22 +541,13 @@ section .flying1 img {
 #S9 {   
     left: 1300px;
 }
- 
+section.sec4 {
+    padding: 2rem; 
+    margin: 20px;
+} 
 section.sec4 .flying2 {
-    position: relative;
-    z-index: 50;
     left: 0%;
     top: -800px; 
-}
-#S11 {    
-    position: relative;
-    left: 980px;
-    top: 340px;  
-    animation-name: slideUp;
-    animation-duration: 6s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    animation-timing-function: linear;
 }       
 }
 @media all and (max-width: 1221px) {
