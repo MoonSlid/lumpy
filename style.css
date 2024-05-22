@@ -542,12 +542,32 @@ section .flying1 img {
     left: 1300px;
 }
 
-.review .content p{
-    padding: 1rem 2rem;
-}
 section.sec4 {
     padding: 2rem;     
 } 
+.review {
+    padding-left: 35px;  
+    h5 {
+        font-size: 95px;
+        padding-left: 15%;
+        }
+    .content {
+        flex: 1 1 42rem;  
+        h3 {
+            font-size: 3rm;
+        }
+        p {
+            padding: 1rem 2rem;
+        }
+    }
+    .box-container {
+        flex: 1 1 22rem;
+        .box {
+            flex: 1 1 10rem;
+            }
+        }
+    }
+                     
 section.sec4 .flying2 {
     left: -700px;
     top: -800px; 
