@@ -799,13 +799,17 @@ section .flying1 img {
     left: 850px;
     top: -450px;
 }   
-#S8 {   
+#S8 {  
+    left: 350px;
     top: -450px;
 } 
 #S9 {   
     left: 950px;
     top: -680px;
 } 
+.services-box {
+    padding-top: 10%;
+}
 .services-box video {
     height: 350px;
     width: 500px;
