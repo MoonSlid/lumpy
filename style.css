@@ -796,6 +796,13 @@ section .flying2 img {
     color: rgba(70, 5, 131, 0.534);
 }
 }
+@media all and (max-width: 1024px) {
+.popey h5 {
+    font-size: 75px;
+}
+
+    
+}   
 @media all and (max-width: 768px) {
 .popey h5 {
     font-size: 70px;
