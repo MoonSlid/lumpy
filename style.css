@@ -814,7 +814,10 @@ section .flying2 img {
     }  
 } 
 @media all and (max-width: 870px) {
-
+.cotags {
+    width: 100%;
+    padding: 0 160px;
+}
 #S6 {
     left: 400px;
     top: -350px;
