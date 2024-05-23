@@ -791,7 +791,7 @@ section .flying2 img {
 .foot .fin p {
     font-size: .8rem;  
     position: absolute;
-    bottom: 25px;  
+    bottom: 5px;  
     padding-left: 20px;
     color: rgba(70, 5, 131, 0.534);
 }
