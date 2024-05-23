@@ -831,6 +831,10 @@ section .flying2 img {
     left: 850px;
     top: -750px;
 } 
+.services-box video {
+    height: 400px;
+    width: 575px;
+}     
  .foot .fin p {
     bottom: 2px;  
 }   
