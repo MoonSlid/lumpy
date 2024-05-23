@@ -585,7 +585,11 @@ section.sec4 .flying2 {
     left: -300px;
     top: -500px; 
 }  
-    
+@media all and (max-width: 1312px) {
+section.sec4 .flying2 {
+    left: -500px;
+    top: -500px; 
+}      
 @media all and (max-width: 1221px) {
 .popey h5 {
     font-size: 95px;
