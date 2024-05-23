@@ -710,13 +710,13 @@ section .dream {
     top: 10%; 
 }
 section .dream img {
-    width: 500px;
+    width: 400px;
 }
 #S5 {
     padding-left: 100px; 
 }
 section .flying1 {
-    left: -50%;
+    left: -70%;
     top: -200px; 
 }
 section .flying1 img {
@@ -739,12 +739,12 @@ section .flying1 img {
     top: -560px;
 } 
 .work h5 {
-    font-size: 55px;
+    font-size: 48px;
 }
 .services-box {
     padding-top: 5%;
     padding-left: 0%;
-    padding-right: 15%;
+    padding-right: 10%;
 }
 .services-box video {
     height: 450px;
@@ -771,7 +771,7 @@ section .flying1 img {
 }
 section.sec4 .flying2 {
     left: -20%;
-    top: -530px; 
+    top: -630px; 
 }
 section .flying2 img {
     width: 120px;
@@ -784,7 +784,7 @@ section .flying2 img {
 .foot .ft-text p {
     font-size: 1.6rem;
     position: absolute;
-    bottom: 70px;  
+    bottom: 65px;  
     padding-left: 20px;
     color: rgba(0, 0, 0, 0.411);
 }
