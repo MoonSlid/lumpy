@@ -569,8 +569,8 @@ section.sec4 {
     }
                      
 section.sec4 .flying2 {
-    left: -300px;
-    top: -600px; 
+    left: 300px;
+    top: -700px; 
 }  
 #S11 {    
     position: relative;
