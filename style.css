@@ -706,7 +706,7 @@ section .flying {
     font-size: 80px;    
 }
 section .dream {
-    left: 5%;
+    left: -10%;
     top: 10%; 
 }
 section .dream img {
