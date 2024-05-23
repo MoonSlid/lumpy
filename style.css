@@ -802,7 +802,13 @@ section .flying2 img {
 }
 .save h4 {
     font-size: 2rem;
-}   
+}  
+.review {  
+    h5 {
+        font-size: 70px; 
+        padding-left: 5%;  
+    }
+    
 }   
 @media all and (max-width: 768px) {
 .popey h5 {
