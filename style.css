@@ -651,7 +651,10 @@ section.sec4 .flying2 {
 } 
 #S9 {   
     left: 950px;
-}    
+} 
+.services-box {
+    padding-left: 15%;
+}
 }
 @media all and (max-width: 1024px) {
 .popey h5 {
