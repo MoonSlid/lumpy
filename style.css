@@ -814,6 +814,11 @@ section .flying2 img {
     }  
 } 
 @media all and (max-width: 870px) {
+
+#S6 {
+    left: 400px;
+    top: -350px;
+}
 #S7 {    
     left: 700px;
     top: -450px;
