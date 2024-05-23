@@ -830,7 +830,10 @@ section .flying2 img {
 #S9 {   
     left: 850px;
     top: -750px;
-}     
+} 
+ .foot .fin p {
+    bottom: 2px;  
+}   
 }
     
 @media all and (max-width: 768px) {
