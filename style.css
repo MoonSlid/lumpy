@@ -834,7 +834,10 @@ section .flying2 img {
 .services-box video {
     height: 400px;
     width: 575px;
-}     
+} 
+ section .flying2 img {
+    width: 130px;
+}   
  .foot .fin p {
     bottom: 2px;  
 }   
