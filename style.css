@@ -727,24 +727,24 @@ section .flying1 img {
     top: -350px;
 
 #S7 {    
-    left: 900px;
-    top: -200px;
+    left: 850px;
+    top: -300px;
 }   
 #S8 {   
-    left: 500px;
-    top: -400px;
+    left: 550px;
+    top: -550px;
 }    
 #S9 {   
-    left: 1100px;
-    top: -560px;
+    left: 1000px;
+    top: -660px;
 } 
 .work h5 {
-    font-size: 48px;
+    font-size: 44px;
 }
 .services-box {
     padding-top: 5%;
     padding-left: 0%;
-    padding-right: 10%;
+    padding-right: 5%;
 }
 .services-box video {
     height: 450px;
