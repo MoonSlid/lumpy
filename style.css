@@ -577,6 +577,7 @@ section.sec4 .flying2 {
     left: 200px;
     top: 340px;  
 }
+}    
 @media all and (max-width: 1314px) {
 #S9 {   
     left: 1150px;
@@ -584,12 +585,14 @@ section.sec4 .flying2 {
 section.sec4 .flying2 {
     left: -300px;
     top: -500px; 
-}  
+} 
+}
 @media all and (max-width: 1312px) {
 section.sec4 .flying2 {
     left: -500px;
     top: -500px; 
-}      
+} 
+}
 @media all and (max-width: 1221px) {
 .popey h5 {
     font-size: 95px;
@@ -642,7 +645,9 @@ section.sec4 .flying2 {
     bottom: 75px;
 }
 }
+@media all and (max-width: 1111px) {
 
+}
 @media all and (max-width: 1024px) {
 .popey h5 {
     font-size: 80px;
