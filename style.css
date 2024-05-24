@@ -1025,7 +1025,11 @@ section .flying1 img {
 section .flying1 {
     left: -80%;
     top: 35px; 
-}        
+} 
+#S9 {   
+    left: 800px;
+    top: -680px;
+}     
 .review {  
     h5 {
         font-size: 50px; 
