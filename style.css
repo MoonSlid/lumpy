@@ -1021,7 +1021,14 @@ section .dream img {
 }
 section .flying1 img {
     width: 210px;
-}    
+}  
+.review {  
+    h5 {
+        font-size: 50px; 
+        padding-left: 0;  
+    }
+}
+
 }
     
 @media all and (max-width: 425px) {
