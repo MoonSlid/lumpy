@@ -1003,7 +1003,9 @@ section.sec4 .flying2 {
 .sleepy h5 {
     font-size: 61px;    
 } 
-
+section .dream img {
+    width: 350px;
+}
     
 }   
 @media all and (max-width: 425px) {
