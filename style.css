@@ -1009,9 +1009,16 @@ section .dream img {
 section .flying1 {
     left: -80%;
     top: -30px; 
+}    
+} 
+@media all and (max-width: 660px) {
+.cotags ul li {
+    width: 120px;   
+    height: 120px;    
+}
+
 }
     
-}   
 @media all and (max-width: 425px) {
 section.sec2 {
     padding: 1rem;   
