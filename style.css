@@ -1045,6 +1045,9 @@ section .flying1 {
 .popey {
     height: 150vh;  
 }
+.floater img {
+    width: 25rem;
+}
 }
 @media all and (max-width: 425px) {
 section.sec2 {
