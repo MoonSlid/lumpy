@@ -1045,6 +1045,9 @@ section .flying1 {
 .popey {
     height: 150vh;  
 }
+.floater .imgMain { 
+    padding-top: 12%;
+}
 .floater img {
     width: 25rem;
 }
