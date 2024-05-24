@@ -1021,7 +1021,11 @@ section .dream img {
 }
 section .flying1 img {
     width: 210px;
-}  
+} 
+section .flying1 {
+    left: -80%;
+    top: -50px; 
+}        
 .review {  
     h5 {
         font-size: 50px; 
