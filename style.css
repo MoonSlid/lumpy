@@ -1016,7 +1016,9 @@ section .flying1 {
     width: 120px;   
     height: 120px;    
 }
-
+section .dream img {
+    width: 320px;
+}
 }
     
 @media all and (max-width: 425px) {
