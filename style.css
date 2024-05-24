@@ -990,6 +990,10 @@ section.sec4 .flying2 {
     h5 {
         font-size: 65px;  
 }}
+section.sec4 .flying2 {
+    left: -10%;
+    top: -750px; 
+}
 .foot {
     position: relative;
 
