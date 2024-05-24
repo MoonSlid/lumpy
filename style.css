@@ -1024,7 +1024,7 @@ section .flying1 img {
 } 
 section .flying1 {
     left: -80%;
-    top: 0px; 
+    top: 35px; 
 }        
 .review {  
     h5 {
