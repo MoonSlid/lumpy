@@ -1053,7 +1053,7 @@ section .flying1 {
 }
 #S4 {   
     position: relative;
-    left: 0px;
+    left: 1000px;
     top: 150px;
 }
 }
