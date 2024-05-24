@@ -999,6 +999,13 @@ section.sec4 .flying2 {
 
 }
 }
+@media all and (max-width: 700px) {
+.sleepy h5 {
+    font-size: 61px;    
+} 
+
+    
+}   
 @media all and (max-width: 425px) {
 section.sec2 {
     padding: 1rem;   
