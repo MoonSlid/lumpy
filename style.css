@@ -1006,6 +1006,10 @@ section.sec4 .flying2 {
 section .dream img {
     width: 350px;
 }
+section .flying1 {
+    left: 0%;
+    top: -30px; 
+}
     
 }   
 @media all and (max-width: 425px) {
