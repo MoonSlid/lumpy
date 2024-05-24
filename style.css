@@ -914,6 +914,10 @@ section .flying1 {
 section .flying1 img {
     width: 250px;
 }
+#S6 {
+    left: 500px;
+    top: -350px;
+}   
 #S7 {    
     left: 850px;
     top: -450px;
