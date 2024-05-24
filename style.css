@@ -848,7 +848,12 @@ section .flying2 img {
     bottom: 2px;  
 }   
 }
-    
+@media all and (max-width: 800px) {
+#S9 {   
+    left: 750px;
+    top: -750px;
+} 
+}
 @media all and (max-width: 768px) {
 .popey h5 {
     font-size: 70px;
