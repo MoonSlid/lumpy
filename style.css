@@ -1051,7 +1051,11 @@ section .flying1 {
 .floater img {
     width: 25rem;
 }
-
+#S4 {   
+    position: relative;
+    left: 0px;
+    top: 150px;
+}
 }
 @media all and (max-width: 425px) {
 section.sec2 {
