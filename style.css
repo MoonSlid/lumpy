@@ -1077,7 +1077,11 @@ section .flying1 {
     position: relative;
     left: 650px;
     top: 300px;
-}      
+}  
+.foot .ft-text p {
+    font-size: 1.2rem;
+    bottom: 90px;  
+}  
 }
 @media all and (max-width: 425px) {
 section.sec2 {
