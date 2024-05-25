@@ -805,7 +805,7 @@ section .flying2 img {
 } 
 #S4 {   
     position: relative;
-    left: 1250px;
+    left: 800px;
     top: 150px;
     animation-name: slideUp;
     animation-duration: 8s;
