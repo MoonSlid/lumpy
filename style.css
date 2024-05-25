@@ -1075,9 +1075,9 @@ section .flying1 {
 }
 #S4 {   
     position: relative;
-    left: 900px;
+    left: 650px;
     top: 150px;
-}
+}      
 }
 @media all and (max-width: 425px) {
 section.sec2 {
