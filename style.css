@@ -1080,8 +1080,18 @@ section .flying1 {
 }  
 .foot .ft-text p {
     font-size: 1.2rem;
-    bottom: 90px;  
-}  
+    position: absolute;
+    bottom: 80px;  
+    padding-left: 20px;
+    color: rgba(0, 0, 0, 0.411);
+}
+.foot .fin p {
+    font-size: .7rem;  
+    position: absolute;
+    bottom: 25px;  
+    padding-left: 20px;
+    color: rgba(70, 5, 131, 0.534);
+}    
 }
 @media all and (max-width: 425px) {
 section.sec2 {
