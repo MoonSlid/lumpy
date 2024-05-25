@@ -1030,7 +1030,7 @@ section .flying1 {
 }   
 #S4 {   
     left: 700px;  
-    top: 150px;   
+    top: 250px;   
 }   
 } 
 @media all and (max-width: 660px) {
