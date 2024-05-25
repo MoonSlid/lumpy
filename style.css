@@ -803,6 +803,16 @@ section .flying2 img {
 .save h4 {
     font-size: 2rem;
 } 
+#S4 {   
+    position: relative;
+    left: 1250px;
+    top: 150px;
+    animation-name: slideUp;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}     
 .services-box {  
     padding-left: 5%;
     padding-right: 15%;
