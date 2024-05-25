@@ -1022,7 +1022,16 @@ section .dream img {
 section .flying1 {
     left: -80%;
     top: -30px; 
-}    
+}  
+#S3 {    
+    left: 600px;  
+    top: 50px;
+    animation-duration: 10s;
+}   
+#S4 {   
+    left: 750px;  
+    top: 150px;   
+}   
 } 
 @media all and (max-width: 660px) {
 .cotags ul li {
