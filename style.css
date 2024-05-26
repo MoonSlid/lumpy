@@ -1230,7 +1230,7 @@ section .flying {
         font-size: 47px; 
     }}
 .foot {
-    margin-top: 1380px;
+    margin-top: 1250px;
 }     
 }
 @media all and (max-width: 442px) {
