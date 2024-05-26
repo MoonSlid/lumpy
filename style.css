@@ -1209,8 +1209,8 @@ section .flying img {
     width: 5rem;
 }
 section .flying {
-    left: -100px;
-    top: -700px;
+    left: -150px;
+    top: -660px;
 }
     
 }
