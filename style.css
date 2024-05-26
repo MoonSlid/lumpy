@@ -1168,7 +1168,9 @@ section .dream img {
     width: 100px;
     height: 100px;
 }
-
+.foot {
+    margin-top: 1300px;
+}    
 }
 @media all and (max-width: 442px) {
 .save h4 {
