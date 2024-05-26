@@ -1168,6 +1168,9 @@ section .dream img {
     width: 100px;
     height: 100px;
 }
+.work h5 {
+    font-size: 35px;
+}
 .foot {
     margin-top: 1450px;
 }    
