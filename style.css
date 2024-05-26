@@ -1152,7 +1152,9 @@ section .dream img {
         }
     }
 }  
-    
+.foot {
+    margin-top: 300px;
+}    
 }
 @media all and (max-width: 550px) {
 .cotags ul li {
