@@ -1119,6 +1119,9 @@ section .flying1 {
     width: 120px;
     height: 120px;
 }
+   section .flying1 {
+    left: -85%;
+} 
 }
 @media all and (max-width: 425px) {
 section.sec2 {
