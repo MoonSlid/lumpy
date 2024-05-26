@@ -1108,6 +1108,14 @@ section .flying1 {
     top: 35px; 
 }  
 }
+@media all and (max-width: 587px) {
+ .box-container {
+        flex: 1 1 28rem;
+        .box {
+            flex: 1 1 11rem;
+            }
+        } 
+}
 @media all and (max-width: 425px) {
 section.sec2 {
     padding: 1rem;   
