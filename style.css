@@ -1234,7 +1234,9 @@ section .flying {
 }     
 }
 @media all and (max-width: 470px) {
-
+.popey {
+    height: 150vh; 
+}
 .popey h5 {
     font-size: 60px; 
 }
