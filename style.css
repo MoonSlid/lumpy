@@ -1128,6 +1128,15 @@ section .dream img {
    section .flying1 {
     left: -100%;
 } 
+.services-box {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+.services-box video {
+    height: 320px;
+    width: 450px;
+}        
 }
 @media all and (max-width: 550px) {
 .cotags ul li {
