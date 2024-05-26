@@ -1234,9 +1234,16 @@ section .flying {
 }     
 }
 @media all and (max-width: 470px) {
+
 .popey h5 {
     font-size: 60px; 
 }
+.cotags ul li {
+    width: 95px;
+    height: 95px;
+}
+.cotags ul li img {      
+    max-width: 85px;     
 }
     
 @media all and (max-width: 442px) {
