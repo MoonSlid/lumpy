@@ -1216,7 +1216,9 @@ section .flying {
     left: -200px;
     top: -660px;
 }
-    
+   section .flying1 {
+    left: -80%;
+}    
 }
 @media all and (max-width: 442px) {
 .save h4 {
