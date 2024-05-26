@@ -1230,6 +1230,9 @@ section .flying {
     h5 {
         font-size: 47px; 
     }}
+.foot {
+    margin-top: 1380px;
+}     
 }
 @media all and (max-width: 442px) {
 .save h4 {
