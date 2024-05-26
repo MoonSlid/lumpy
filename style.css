@@ -1187,6 +1187,11 @@ section .dream img {
     margin-top: 1450px;
 }    
 }
+@media all and (max-width: 513px) {
+.popey h5 {
+    font-size: 65px;
+}
+}
 @media all and (max-width: 442px) {
 .save h4 {
     font-size: 1.2rem;
