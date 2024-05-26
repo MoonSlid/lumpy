@@ -1130,6 +1130,12 @@ section .flying1 {
 }
 
 }
+@media all and (max-width: 442px) {
+.save h4 {
+    font-size: 1.2rem;
+} 
+}
+    
 @media all and (max-width: 425px) {
 section.sec2 {
     padding: 1rem;   
