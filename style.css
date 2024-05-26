@@ -1162,7 +1162,8 @@ section .dream img {
 }
 @media all and (max-width: 550px) {
 .cotags {
-    padding: 0 100px;
+    padding: 0 10px;
+    gap: 0.5rem;
 }   
 .cotags ul li {
     width: 100px;
