@@ -1192,7 +1192,7 @@ section .dream img {
     font-size: 65px;
 }
 .floater img {
-    width: 25rem;  
+    width: 22rem;  
 }
 }
 @media all and (max-width: 442px) {
