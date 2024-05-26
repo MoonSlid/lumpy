@@ -1197,6 +1197,9 @@ section .dream img {
 .floater img {
     width: 22rem;  
 }
+section .flying img {
+    width: 5rem;
+}
 }
 @media all and (max-width: 442px) {
 .save h4 {
