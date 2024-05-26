@@ -1194,6 +1194,10 @@ section .dream img {
     padding-top: 2rem; 
     line-height: 72px;
 }
+.btn{
+    padding: 10px 30px;
+    font-size: 15px;
+}    
 .floater img {
     width: 22rem;  
 }
@@ -1204,6 +1208,7 @@ section .flying {
     left: -100px;
     top: -700px;
 }
+    
 }
 @media all and (max-width: 442px) {
 .save h4 {
