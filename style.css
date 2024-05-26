@@ -1221,6 +1221,10 @@ section .flying {
 } 
    section .flying1 {
     left: -120%;
+} 
+.services-box video {
+    height: 310px;
+    width: 425px;
 }    
 }
 @media all and (max-width: 442px) {
