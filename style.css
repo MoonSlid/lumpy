@@ -1115,6 +1115,10 @@ section .flying1 {
             flex: 1 1 8rem;
             }
         } 
+    .cotags ul li {
+    width: 120px;
+    height: 120px;
+}
 }
 @media all and (max-width: 425px) {
 section.sec2 {
