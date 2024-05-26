@@ -1168,6 +1168,10 @@ section .dream img {
     width: 100px;
     height: 100px;
 }
+#S7 {    
+    left: 750px;
+    top: -450px;
+}   
 #S9 {   
     left: 800px;
     top: -600px;
