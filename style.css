@@ -1120,7 +1120,8 @@ section .flying1 {
     height: 120px;
 }
 .save h4 {
-    bottom: 5px;
+    padding-top: 5px;
+    bottom: 3px;
 }    
 section .dream img {
     width: 300px;
