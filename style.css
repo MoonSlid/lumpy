@@ -1119,6 +1119,12 @@ section .flying1 {
     width: 120px;
     height: 120px;
 }
+section .dream img {
+    width: 300px;
+}
+#S5 {
+    padding-left: 130px; 
+}   
    section .flying1 {
     left: -100%;
 } 
