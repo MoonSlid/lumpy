@@ -1200,6 +1200,10 @@ section .dream img {
 section .flying img {
     width: 5rem;
 }
+section .flying {
+    left: -100px;
+    top: -700px;
+}
 }
 @media all and (max-width: 442px) {
 .save h4 {
