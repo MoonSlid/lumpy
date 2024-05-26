@@ -1163,12 +1163,15 @@ section .dream img {
 @media all and (max-width: 550px) {
 .cotags {
     padding: 0 10px;
-    gap: 0.5rem;
 }   
 .cotags ul li {
     width: 100px;
     height: 100px;
 }
+.cotags ul li img {      
+    max-width: 90px; 
+    box-shadow: 6px 6px 6px rgba(15, 15, 15, 0.479);   
+}     
 #S7 {    
     left: 750px;
     top: -400px;
