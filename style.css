@@ -1189,7 +1189,10 @@ section .dream img {
 }
 @media all and (max-width: 513px) {
 .popey h5 {
-    font-size: 65px;
+    font-size: 62px; 
+    margin-bottom: 1rem;  
+    padding-top: .5rem; 
+    line-height: 72px;
 }
 .floater img {
     width: 22rem;  
