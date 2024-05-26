@@ -1123,6 +1123,13 @@ section .flying1 {
     left: -85%;
 } 
 }
+@media all and (max-width: 550px) {
+.cotags ul li {
+    width: 100px;
+    height: 100px;
+}
+
+}
 @media all and (max-width: 425px) {
 section.sec2 {
     padding: 1rem;   
