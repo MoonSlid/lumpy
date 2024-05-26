@@ -1198,6 +1198,10 @@ section .dream img {
 
     font-size: 14px;
 }
+.btn1{
+    padding: 10px 30px;
+    font-size: 15px;
+}
 .buybtn {
     padding-left: 40%;
     padding-right: 15px;
