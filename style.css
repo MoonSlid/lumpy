@@ -1195,12 +1195,11 @@ section .dream img {
     line-height: 72px;
 }
 .btn{
-
-    font-size: 14px;
+    font-size: 20px;
 }
 .btn1{
     padding: 10px 30px;
-    font-size: 15px;
+    font-size: 18px;
 }
 .buybtn {
     padding-left: 40%;
