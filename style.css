@@ -1233,7 +1233,7 @@ section .flying {
     margin-top: 1250px;
 }     
 }
-@media all and (max-width: 442px) {
+@media all and (max-width: 470px) {
 .popey h5 {
     font-size: 60px; 
 }
