@@ -1225,7 +1225,11 @@ section .flying {
 .services-box video {
     height: 310px;
     width: 425px;
-}    
+}
+.review {  
+    h5 {
+        font-size: 47px; 
+    }}
 }
 @media all and (max-width: 442px) {
 .save h4 {
