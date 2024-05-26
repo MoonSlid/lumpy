@@ -1168,6 +1168,10 @@ section .dream img {
     width: 100px;
     height: 100px;
 }
+#S9 {   
+    left: 750px;
+    top: -600px;
+} 
 .work h5 {
     font-size: 55px;
 }
