@@ -1093,6 +1093,15 @@ section .flying1 {
     color: rgba(70, 5, 131, 0.534);
 }    
 }
+@media all and (max-width: 600px) {
+
+#S4 {   
+    position: relative;
+    left: 580px;
+    top: 300px;
+}  
+    
+}
 @media all and (max-width: 425px) {
 section.sec2 {
     padding: 1rem;   
