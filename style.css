@@ -1191,6 +1191,9 @@ section .dream img {
 .popey h5 {
     font-size: 65px;
 }
+.floater img {
+    width: 25rem;  
+}
 }
 @media all and (max-width: 442px) {
 .save h4 {
