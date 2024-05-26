@@ -1197,7 +1197,11 @@ section .dream img {
 .btn{
     padding: 10px 30px;
     font-size: 15px;
-}    
+}
+.buybtn {
+    padding-left: 40%;
+    padding-right: 15px;
+}
 .floater img {
     width: 22rem;  
 }
