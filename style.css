@@ -1261,7 +1261,10 @@ section .dream img {
 }
     section .flying1 {
     left: -130%;
-} 
+}
+.work {
+    height: 90vh; 
+}    
 .work h5 {
     font-size: 52px;
     text-shadow: 5px 7px 2px rgba(0, 0, 0, 0.397);
