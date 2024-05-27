@@ -1294,7 +1294,7 @@ section .flying1 {
 .foot .ft-text p {
     position: absolute;
     font-size: 1rem;
-    bottom: 95px;  
+    bottom: 100px;  
 }
 .foot .fin p {
     font-size: .8rem;  
