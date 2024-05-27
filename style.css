@@ -1257,6 +1257,11 @@ section .dream img {
     height: 305px;
     width: 410px;
 }
+.services-box {
+    padding-top: 18%;
+    padding-left: 2%;
+    padding-right: 15px;
+}    
 }
 @media all and (max-width: 442px) {
 .save h4 {
