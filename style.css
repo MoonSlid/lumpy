@@ -1188,6 +1188,9 @@ section .dream img {
 }    
 }
 @media all and (max-width: 513px) {
+.popey {
+    height: 135vh;  
+}    
 .popey h5 {
     font-size: 62px; 
     margin-bottom: 1rem;  
