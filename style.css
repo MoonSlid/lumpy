@@ -1680,7 +1680,12 @@ section .flying1 img {
 #S9 {   
     left: 770px;
     top: -560px;
-} 
+}
+.services-box {
+    padding-top: 15%;
+    padding-right: 0%;
+    padding-left: 0%
+}
 section.sec4 {
     height: 175vh;   
 }
