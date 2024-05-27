@@ -1240,6 +1240,9 @@ section .flying {
 .popey h5 {
     font-size: 58px; 
 }
+#S4 {   
+     display: none;
+}  
 .cotags ul li {
     width: 95px;
     height: 95px;
