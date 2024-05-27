@@ -1410,6 +1410,9 @@ section .dream {
 section .dream img {
     width: 260px;
 }
+#S5 {
+    padding-left: 45px; 
+} 
 section .flying1 {
     left: -150%;
     top: 60px; 
