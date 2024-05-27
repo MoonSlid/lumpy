@@ -1286,7 +1286,7 @@ section .dream img {
         font-size: 43px; 
     }}
 .foot {
-    margin-top: 1100px;
+    margin-top: 1000px;
 }     
 }
 @media all and (max-width: 442px) {
@@ -1316,7 +1316,7 @@ section .flying1 {
         font-size: 41px; 
     }}
 .foot {
-    margin-top: 1000px;
+    margin-top: 900px;
 } 
 .foot .ft-text p {
     position: absolute;
