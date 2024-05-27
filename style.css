@@ -1245,7 +1245,10 @@ section .flying {
 }
 #S4 {   
      display: none;
-}  
+}
+.cotags ul {
+    bottom: 100px;
+}    
 .cotags ul li {
     width: 95px;
     height: 95px;
