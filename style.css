@@ -1643,7 +1643,7 @@ section .flying img {
 }      
 #S2 {  
     left: 150px; 
-    top: 370px;  
+    top: 250px;  
     animation-duration: 10s;    
 }
 #S3 {    
