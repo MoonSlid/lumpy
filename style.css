@@ -1261,7 +1261,11 @@ section .dream img {
     padding-top: 18%;
     padding-left: 2%;
     padding-right: 15px;
-}    
+} 
+.review {  
+    h5 {
+        font-size: 45px; 
+    }}
 }
 @media all and (max-width: 442px) {
 .save h4 {
