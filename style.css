@@ -1278,6 +1278,13 @@ section .dream img {
 }     
 }
 @media all and (max-width: 442px) {
+.cotags ul li {
+    width: 91px;
+    height: 91px;
+}
+.cotags ul li img {      
+    max-width: 81px;     
+}
 .save h4 {
     font-size: 1.2rem;
 } 
