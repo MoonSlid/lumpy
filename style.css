@@ -1281,6 +1281,9 @@ section .dream img {
 .save h4 {
     font-size: 1.2rem;
 } 
+section .flying1 {
+    left: -115%;
+} 
 .review {  
     h5 {
         font-size: 41px; 
