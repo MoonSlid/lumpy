@@ -1253,6 +1253,10 @@ section .dream img {
     section .flying1 {
     left: -130%;
 } 
+.services-box video {
+    height: 305px;
+    width: 410px;
+}
 }
 @media all and (max-width: 442px) {
 .save h4 {
