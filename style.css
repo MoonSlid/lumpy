@@ -1366,8 +1366,8 @@ section .flying img {
     padding-left: 150px; 
 }
 #S2 {  
-    left: 170px; 
-    top: 440px;  
+    left: 200px; 
+    top: 150px;  
     animation-duration: 15s;    
 }
 #S3 {    
