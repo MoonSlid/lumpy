@@ -1281,6 +1281,9 @@ section .dream img {
     h5 {
         font-size: 43px; 
     }}
+.foot {
+    margin-top: 1000px;
+}     
 }
     
 @media all and (max-width: 425px) {
