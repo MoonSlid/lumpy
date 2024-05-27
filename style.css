@@ -1565,7 +1565,8 @@ section .flying1 img {
 }
 .services-box {
     padding-top: 15%;
-    padding-right: 10%;
+    padding-right: 7%;
+    padding-left: 7%
 }
 .services-box video {
     height: 230px;
