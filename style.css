@@ -1247,7 +1247,9 @@ section .flying {
 .cotags ul li img {      
     max-width: 85px;     
 }
-    
+section .dream img {
+    width: 270px;
+}
 @media all and (max-width: 442px) {
 .save h4 {
     font-size: 1.2rem;
