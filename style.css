@@ -1652,7 +1652,7 @@ section .flying img {
     animation-duration: 4s;
 }   
 .cotags ul {
-    bottom: 140px;  
+    bottom: 100px;  
 }
 .sleepy {
     height: 70vh;  
