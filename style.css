@@ -14,12 +14,6 @@
     font-style: normal;
     font-weight: 100;
 } 
-@font-face {
-    font-family: SuperFriday;
-    src: url(fonts/Super\ Friday\ Personal\ Use.ttf);
-    font-style: normal;
-    font-weight: 100;
-} 
 :root {
     --blue: rgb(97, 56, 136);
     --black:#111;
