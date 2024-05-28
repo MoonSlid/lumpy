@@ -1057,7 +1057,8 @@ section .flying1 {
 .review {  
     h5 {
         font-size: 50px; 
-        padding-left: 0;  
+        padding-left: 0; 
+        padding-bottom: 0;
     }
 }
 }
