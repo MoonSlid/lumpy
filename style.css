@@ -748,9 +748,9 @@ section .flying1 img {
     font-size: 45px;
 }
 .services-box {
-    padding-top: 5%;
-    padding-left: 0%;
-    padding-right: 25%;
+    padding-top: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .services-box video {
     height: 450px;
