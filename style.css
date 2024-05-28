@@ -1243,9 +1243,6 @@ section .flying {
 .popey h5 {
     font-size: 58px; 
 }
-#S4 {   
-     display: none;
-}
 .cotags ul {
     bottom: 150px;
 }    
@@ -1374,9 +1371,10 @@ section .flying img {
     left: 470px;  
     top: 120px;
     animation-duration: 6s;
-}   
-#S4 {  
-    display: none; 
+}  
+#S4 {   
+    left: 480px;
+    top: 300px;
 }
 .cotags ul li {
     width: 90px;   
@@ -1622,9 +1620,6 @@ section .flying2 img {
 }
 }
 @media all and (max-width: 320px) {
-.body {
-    max-width: 320px;
-}
 .popey {
     height: 90vh;    
 } 
