@@ -1622,6 +1622,9 @@ section .flying2 img {
 }
 }
 @media all and (max-width: 320px) {
+.body {
+    width: 320px;
+}
 .popey {
     height: 90vh;    
 } 
