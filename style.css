@@ -732,14 +732,14 @@ section .flying1 img {
 #S6 {
     left: 550px;
     top: -350px;
-
+}
 #S7 {    
     left: 850px;
     top: -300px;
 }   
 #S8 {   
     left: 550px;
-    top: -650px;
+    top: -450px;
 }    
 #S9 {   
     left: 1000px;
@@ -824,7 +824,8 @@ section .flying2 img {
         font-size: 75px; 
         padding-left: 5%;  
     }  
-} 
+}
+}
 @media all and (max-width: 870px) {
 .floater .imgMain {  
     padding-top: 13%;
