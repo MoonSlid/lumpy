@@ -1623,7 +1623,7 @@ section .flying2 img {
 }
 @media all and (max-width: 320px) {
 .popey {
-    height: 100vh;    
+    height: 90vh;    
 } 
 .popey h5 {
      font-size: 40px; 
