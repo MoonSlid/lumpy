@@ -517,6 +517,13 @@ section.footer {
 }
 /************************ Media ****************************/
 @media all and (max-width: 1440px) {
+ html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
 .buybtn {
     padding-left: 75%;
 }
