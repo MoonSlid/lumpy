@@ -1372,10 +1372,6 @@ section .flying img {
     top: 120px;
     animation-duration: 6s;
 }  
-#S4 {   
-    left: 480px;
-    top: 300px;
-}
 .cotags ul li {
     width: 90px;   
     height: 90px;    
