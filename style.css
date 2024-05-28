@@ -394,68 +394,63 @@ section.sec4 {
     align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
-    padding-left: 40px;  
-    h5 {
+    padding-left: 40px; 
+} 
+.review h5 {
         font-family: slackey; 
         font-size: 105px;
         padding-left: 20%;
         text-align: center;
         color: rgb(97, 56, 136);    
         text-shadow: 6px 8px 2px rgba(0, 0, 0, 0.397);
-        -webkit-text-stroke: 0.5px rgb(7, 7, 7);
+        -webkit-text-stroke: 2px rgb(7, 7, 7);
     }
-    .content {
-        flex: 1 1 42rem;  
-        span {
+.review .content {
+        flex: 1 1 42rem; 
+    } 
+.content span {
             font-size: 2rem;
             color: var(--blue);
         }
-        h3 {
-            font-family: slackey;
-            font-size: 3rem;
+.content h3 {
+            font-family: Slackey;
+            font-size: 4rem;
             color: var(--blue);
             text-shadow: 5px 5px 2px rgba(0, 0, 0, 0.397);
         }
-        p {
+.content p {
             font-size: 1.4rem;
             color: var(--blue);
-            padding: 1rem 0;
+            padding: 1rem 2rem;
             line-height: 2;
-        }
-    }
-    .box-container {
-        flex: 1 1 42rem;
+        }    
+.review .box-container {
+        flex: 1 1 42rem;  
         display: flex;
         flex-wrap: wrap;
         gap: 1.5rem;
-      
-
-        .box {
-            flex: 1 1 20rem;
+}
+.box-container .box {
+            flex: 1 1 20rem;   
             border-radius: 1rem;
             background: var(--bg-color);
             border: 0.4rem solid var(--black); 
-            transition: .3s; 
-             
-
-            &:hover {
+            transition: .2s; 
+}            
+.box-container .box:hover {
                 border: var(--border);
             }
-
-            .user {
+.box-container.user {
                 display: flex;
                 align-items: center;
                 gap: 1rem;
-
-                img {
+}            
+.box-container img {
                     height: 100%;
                     width: 100%; 
                     border-radius: 5%;
                 }
-            }
-        }
-    }
-}
+            
 /****************** LUMPANOMICS Flying**********************/
 section.sec4 .flying2 {
     position: relative;
